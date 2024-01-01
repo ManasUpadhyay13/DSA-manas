@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "sumOfDigits",
+            "request": "launch",
+            "mainClass": "Recursion.sumOfDigits",
+            "projectName": "dsa with java_b30a5f1"
+        },
+        {
+            "type": "java",
+            "name": "P1to2",
+            "request": "launch",
+            "mainClass": "Recursion.P1to2",
+            "projectName": "dsa with java_b30a5f1"
+        },
+        {
+            "type": "java",
+            "name": "Pow",
+            "request": "launch",
+            "mainClass": "Recursion.Pow",
+            "projectName": "dsa with java_b30a5f1"
+        },
+        {
+            "type": "java",
             "name": "Launch input",
             "request": "launch",
             "mainClass": "input",
