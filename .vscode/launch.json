@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LinerSerach",
+            "request": "launch",
+            "mainClass": "Recursion.LinerSerach",
+            "projectName": "dsa with java_b30a5f1"
+        },
+        {
+            "type": "java",
+            "name": "IfArraySorted",
+            "request": "launch",
+            "mainClass": "Recursion.IfArraySorted",
+            "projectName": "dsa with java_b30a5f1"
+        },
+        {
+            "type": "java",
+            "name": "CheckForZero",
+            "request": "launch",
+            "mainClass": "Recursion.CheckForZero",
+            "projectName": "dsa with java_b30a5f1"
+        },
+        {
+            "type": "java",
+            "name": "RevANumber",
+            "request": "launch",
+            "mainClass": "Recursion.RevANumber",
+            "projectName": "dsa with java_b30a5f1"
+        },
+        {
+            "type": "java",
             "name": "sumOfDigits",
             "request": "launch",
             "mainClass": "Recursion.sumOfDigits",
