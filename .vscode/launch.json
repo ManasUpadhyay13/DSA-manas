@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AllPossibleSubSetInString",
+            "request": "launch",
+            "mainClass": "Recursion.AllPossibleSubSetInString",
+            "projectName": "dsa with java_b30a5f1"
+        },
+        {
+            "type": "java",
             "name": "LinerSerach",
             "request": "launch",
             "mainClass": "Recursion.LinerSerach",
