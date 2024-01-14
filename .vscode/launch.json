@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Into",
+            "request": "launch",
+            "mainClass": "Into",
+            "projectName": "dsa with java_b30a5f1"
+        },
+        {
+            "type": "java",
+            "name": "Intro",
+            "request": "launch",
+            "mainClass": "Intro",
+            "projectName": "dsa with java_b30a5f1"
+        },
+        {
+            "type": "java",
+            "name": "Manas",
+            "request": "launch",
+            "mainClass": "Manas",
+            "projectName": "dsa with java_b30a5f1"
+        },
+        {
+            "type": "java",
+            "name": "HashmapIntro",
+            "request": "launch",
+            "mainClass": "HashmapIntro",
+            "projectName": "dsa with java_b30a5f1"
+        },
+        {
+            "type": "java",
             "name": "AllPossibleSubSetInString",
             "request": "launch",
             "mainClass": "Recursion.AllPossibleSubSetInString",
